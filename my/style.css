@@ -1,0 +1,733 @@
+.main{
+  
+  background: linear-gradient(to bottom right, #33ccff -16%, #ffffff 45%);
+  background-attachment: fixed;
+}
+
+
+.mainheader{
+    width: 100%;
+    height: 85px;
+    background:white;
+}
+
+
+
+
+
+
+
+
+.nav-container {
+   
+    background: white;
+}
+.nav-left{
+    float: left;
+    width: 215px;
+    height: 71.14px;
+    align-items: center;
+    margin-left: 85px;
+}
+.imagenav{
+    width: 195px;
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 15px;
+    
+}
+
+.nav-item{
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    color: #151515;
+    font-size: 14px;
+    font-weight: 1000;
+
+}
+
+.navbar-2{
+    float: left;
+    width: 632.05px;
+    height: 60px;
+    margin-left: 70px;
+    
+}
+
+
+
+
+
+.essential{
+  height: 100px;
+  background: white;
+}
+
+
+
+.navitems{
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    color: #151515;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 7px;
+    
+    margin-right: 10px;
+    padding: 20px 12px;
+    float: left;
+    
+}
+
+
+
+.second-body{
+    
+    width: 100%;
+    height: 500px;
+    margin-top: 19px;
+}
+
+.dropbtn {
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    font-weight: 500;
+    margin-top: 12px;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    background: white;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: white;}
+
+  .dropbtna {
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    font-weight: 500;
+    margin-top: 12px;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdowna {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-contenta {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  
+  
+  /* Links inside the dropdown */
+  .dropdown-contenta a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    background: white;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdowna:hover .dropdown-contenta {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdowna:hover .dropbtna {background-color: white;}
+
+
+
+  .image-85 {
+    position: absolute;
+    left: auto;
+    
+    bottom: auto;
+    width: 10%;
+}
+
+
+
+
+
+.shaji {
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    font-weight: 500;
+    margin-top: 12px;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .vasu {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .shashi {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  
+  
+  /* Links inside the dropdown */
+  .shashi a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    background: white;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .shashi a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .vasu:hover .shashi {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .vasu:hover .shaji {background-color: white;}
+
+  
+.navright{
+  
+  width: 250px;
+  height: 78px;
+  
+  
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: transparent;
+  align-items: flex-end;
+  font-size: 14px;
+  margin-right: 50px;
+}
+
+
+.button {
+  display: block;
+    margin-right: 20px;
+    padding: 8px 10px;
+    border: 1px solid #151515;
+    border-radius: 6px;
+    background-color: transparent;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    color: #151515;
+    font-size: 12px;
+    
+    
+
+}
+
+
+
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid black;
+  width: 100px;
+}
+
+.button3:hover {
+  background-color: black;
+  color: white;
+}
+
+.button4 {
+  background-color: black; 
+  color: white; 
+  border: 2px solid black;
+  width: 100px;
+  font-weight: bold;
+}
+
+.button4:hover {
+  background-color: white;
+  color: black;
+  
+}
+
+.second-left{
+  width: 50%;
+  display: block;
+  
+ 
+  
+  margin-left: -40px;
+  
+  margin-top: -8px;
+  
+
+}
+
+.second-right{
+  width: 50%;
+  height: 400px;
+  float: right;
+  background: transparent;
+  margin-right: 65px;
+  margin-top: 50px;
+  
+}
+
+.sr-image{
+  height: 350px;
+  width: 400px;
+  margin-left: 20px;
+  margin-top: 0px;
+  
+}
+
+.messiaa{
+  background: transparent;
+  width: 525px;
+  height: 60px;
+  margin-left: 105px;
+  
+  
+  
+}
+
+.messiaa1{
+  background: transparent;
+  width: 525px;
+  height: 110px;
+  margin-left: 105px;
+}
+
+.grademessi{
+  
+  background: linear-gradient(to right, #f32170,
+  #ff6b08, #cf23cf, #eedd44);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+font-size: 35px;
+font-weight: bold;
+
+}
+.grademessi1{
+  font-size: 35px;
+  font-weight:600;
+  font-family: 'Plus Jakarta Sans',sans-serif;
+
+}
+.space{
+  color: transparent;
+}
+
+.tog-left{
+  width: 450px;
+  height: 50px;
+  
+  margin-left: 107px;
+  margin-top: 10px;
+}
+
+.para-left{
+  width: 450px;
+  height: 50px;
+  background:transparent;
+  margin-left: 107px;
+  margin-top: 10px;
+}
+.para{
+  font-size: 14px;
+  color: black;
+}
+
+.chumma{
+  width: 450px;
+  height: 50px;
+  
+  margin-left: 107px;
+  margin-top: 90px;
+}
+
+
+.third-body{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 350px;
+	background: transparent;
+  margin-top: 15px;
+  
+}
+
+/* Adding transform-style CSS
+	property to the boxes */
+  .box {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    animation: animate 20s linear infinite;
+  }
+  
+  /* Adding keyframes for animation */
+  @keyframes animate {
+    0% {
+      transform: perspective(1000px) rotateY(0deg);
+    }
+    100% {
+      transform: perspective(1000px) rotateY(360deg);
+    }
+  }
+  
+  /* Adding CSS to all the span
+    tags for animation */
+  .box span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    transform:
+    rotateY(calc(var(--i) * 45deg)) translateZ(400px);
+    -webkit-box-reflect:
+  below 0px linear-gradient(transparent, transparent, #0004);
+  }
+  
+  /* Adding object-fit CSS property to all the images */
+  .box span img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 160px;
+    object-fit: cover;
+    margin-top: 20px;
+  }
+
+  .fr-body{
+    background: linear-gradient(to bottom right, #33ccff -16%, #ffffff 45%);;
+    height: 500px
+  }
+
+  .five-body{
+    
+    height: 900px;
+
+    
+   width: 100%;
+   
+
+    
+  }
+  .bahu{
+    float: right;
+  }
+  .bahudiv{
+    height: auto;
+    width: 100%;
+    background: black;
+  }
+
+  .five-head{
+    background: transparent;
+    height: 300px;
+    width: 100%;
+  }
+
+  .five-head1{
+
+    
+    width: 100%;
+    height: 100px;
+
+  }
+
+  .five-head2{
+
+    
+    width: 100%;
+    height: 200px;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+
+  }
+
+  .five-balance{
+    height: 14cm;
+    
+  }
+
+  .five-bal1{
+    
+    width: 23cm;
+    height: 3cm;
+    margin: auto;
+  }
+
+  .five-bal2{
+    
+    width: 23cm;
+    height: 3cm;
+    margin: auto;
+  }
+
+  .five-bal3{
+    
+    width: 23cm;
+    height: 3cm;
+    margin: auto;
+  }
+
+  .run-1{
+    
+    width: 7cm;
+    height: 3cm;
+    float: left;
+  }
+
+  .run-2{
+    
+    width: 7cm;
+    height: 3cm;
+    float: left;
+    margin-left: 1cm;
+  }
+
+  .run-21{
+    
+    width: 4cm;
+    height: 3cm;
+    float: left;
+    
+  }
+
+  .run-211{
+    
+    width: 3cm;
+    height: 3cm;
+    float: left;
+    
+
+  }
+
+  .count{
+    font-size: 75px;
+    background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  float: right;
+  }
+
+  .count-sym{
+    font-size: 40px;
+    background-image: linear-gradient(127deg,#d22c84,#fb6069 16%,#2d84f1);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  margin-top: 35px;
+
+  }
+
+  .ad-2{
+    height:auto;
+    width: 7cm;
+    
+    float: left;
+    text-align: center;
+    
+  }
+
+  .ad-21{
+    height:auto;
+    width: 7cm;
+    
+    float: left;
+    margin-left: 1cm;
+    text-align: center;
+  }
+
+  .five-bal4{
+    width: 23cm;
+    height: 2cm;
+    margin: auto;
+    
+  }
+
+  .email{
+    font-size: 25px;
+  }
+
+  .link
+  {
+    height: 1cm;
+    width: 1cm;
+  }
+
+  .link2
+  {
+    height: 1cm;
+    width: 2cm;
+  }
+
+  .kuttapi{
+    font-weight: bold;
+  }
+
+
+
+
+
+  
+    
+    /* Styling the area of the slides */
+    #slideshow {
+    overflow: hidden;
+    height: 510px;
+    width: 728px;
+    margin: auto;
+    }
+    
+    /* Style each of the sides
+    with a fixed width and height */
+    .slide {
+    float: left;
+    height: 510px;
+    width: 728px;
+    
+    }
+    
+    /* Add animation to the slides */
+    .slide-wrapper {
+    
+    /* Calculate the total width on the
+    basis of number of slides */
+    width: calc(728px * 4);
+    
+    /* Specify the animation with the
+    duration and speed */
+    animation: slide 10s ease infinite;
+    }
+    
+    /* Set the background color
+    of each of the slides */
+    .slide:nth-child(1) {
+    background: transparent;
+    }
+    
+    .slide:nth-child(2) {
+    background: transparent;
+    }
+    
+    .slide:nth-child(3) {
+    background: transparent;
+    }
+    
+    .slide:nth-child(4) {
+    background: transparent;
+    }
+    
+    /* Define the animation
+    for the slideshow */
+    @keyframes slide {
+    
+    /* Calculate the margin-left for
+    each of the slides */
+    20% {
+      margin-left: 0px;
+    }
+    
+    40% {
+      margin-left: calc(-728px * 1);
+    }
+    
+    60% {
+      margin-left: calc(-728px * 2);
+    }
+    
+    80% {
+      margin-left: calc(-728px * 3);
+    }
+    }
+
+    .slide-number{
+      margin: auto;
+      width: 450px;
+      margin-left: 80px;
+    }
+    
+
+    .adj{
+      width: 100%;
+      height: 10px;
+      background: grey;
+    }
+
+    .six-body{
+
+      background: #cf23cf;
+      height: 500px;
+
+    }
+
+  
+
+
+
+    
+    
+
+  
